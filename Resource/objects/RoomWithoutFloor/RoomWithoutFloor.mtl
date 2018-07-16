@@ -1,0 +1,1570 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 18.05.2018 11:01:47
+
+newmtl _diningroomMaterial_046_e4b541f9_e4b541f9_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\e4b541f9.dds
+	map_Kd ..\maps\e4b541f9.dds
+
+newmtl _diningroomMaterial_013_919ffd59_919ffd59_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\919ffd59.dds
+	map_Kd ..\maps\919ffd59.dds
+
+newmtl _diningroomMaterial_091_b7f730fc_b7f730fc_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\b7f730fc.dds
+	map_Kd ..\maps\b7f730fc.dds
+
+newmtl _diningroomMaterial_3d77dd80_dds_3d77dd80_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\3d77dd80.dds
+	map_Kd ..\maps\3d77dd80.dds
+
+newmtl _diningroomMaterial_079_fea79a57_fea79a57_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\fea79a57.dds
+	map_Kd ..\maps\fea79a57.dds
+
+newmtl _diningroomMaterial_098_ac62b476_ac62b476_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\ac62b476.dds
+	map_Kd ..\maps\ac62b476.dds
+
+newmtl _diningroomMaterial_093_54347cf7_54347cf7_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\54347cf7.dds
+	map_Kd ..\maps\54347cf7.dds
+
+newmtl _diningroomMaterial_040_6d6f044a_6d6f044a_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\6d6f044a.dds
+	map_Kd ..\maps\6d6f044a.dds
+
+newmtl _diningroomMaterial_034_7941af26_7941af26_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\7941af26.dds
+	map_Kd ..\maps\7941af26.dds
+
+newmtl _diningroomMaterial_001_39b098fe_39b098fe_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\39b098fe.dds
+	map_Kd ..\maps\39b098fe.dds
+
+newmtl _diningroomMaterial_065_e4224384_e4224384_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\e4224384.dds
+	map_Kd ..\maps\e4224384.dds
+
+newmtl _diningroomMaterial_018_398a6c6a_398a6c6a_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\398a6c6a.dds
+	map_Kd ..\maps\398a6c6a.dds
+
+newmtl _diningroomMaterial_087_cbbaf18b_cbbaf18b_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\cbbaf18b.dds
+	map_Kd ..\maps\cbbaf18b.dds
+
+newmtl _diningroomMaterial_071_32036a36_32036a36_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\32036a36.dds
+	map_Kd ..\maps\32036a36.dds
+
+newmtl _diningroomMaterial_003_fa2e5ded_fa2e5ded_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\fa2e5ded.dds
+	map_Kd ..\maps\fa2e5ded.dds
+
+newmtl _diningroomMaterial_051_12aed75c_12aed75c_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\12aed75c.dds
+	map_Kd ..\maps\12aed75c.dds
+
+newmtl _diningroomMaterial_004_74df3b97_74df3b97_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\74df3b97.dds
+	map_Kd ..\maps\74df3b97.dds
+
+newmtl _diningroomMaterial_083_262d1cac_262d1cac_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\262d1cac.dds
+	map_Kd ..\maps\262d1cac.dds
+
+newmtl _diningroomMaterial_015_bd61c0f5_bd61c0f5_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\bd61c0f5.dds
+	map_Kd ..\maps\bd61c0f5.dds
+
+newmtl _diningroomMaterial_054_3953aa7e_3953aa7e_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\3953aa7e.dds
+	map_Kd ..\maps\3953aa7e.dds
+
+newmtl _diningroomMaterial_059_257ab7a5_257ab7a5_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\257ab7a5.dds
+	map_Kd ..\maps\257ab7a5.dds
+
+newmtl _diningroomMaterial_101_38fc5672_38fc5672_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\38fc5672.dds
+	map_Kd ..\maps\38fc5672.dds
+
+newmtl _diningroomMaterial_025_5626722c_5626722c_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\5626722c.dds
+	map_Kd ..\maps\5626722c.dds
+
+newmtl _diningroomMaterial_090_375081bc_375081bc_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\375081bc.dds
+	map_Kd ..\maps\375081bc.dds
+
+newmtl _diningroomMaterial_099_eb501e3a_eb501e3a_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\eb501e3a.dds
+	map_Kd ..\maps\eb501e3a.dds
+
+newmtl _diningroomMaterial_053_3c3e0cd3_3c3e0cd3_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\3c3e0cd3.dds
+	map_Kd ..\maps\3c3e0cd3.dds
+
+newmtl _diningroomMaterial_109_aab46d0a_aab46d0a_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\aab46d0a.dds
+	map_Kd ..\maps\aab46d0a.dds
+
+newmtl _diningroomMaterial_111_d4a20c5b_d4a20c5b_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\d4a20c5b.dds
+	map_Kd ..\maps\d4a20c5b.dds
+
+newmtl _diningroomMaterial_075_ffbb876b_ffbb876b_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\ffbb876b.dds
+	map_Kd ..\maps\ffbb876b.dds
+
+newmtl _diningroomMaterial_061_56ed7bd3_56ed7bd3_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\56ed7bd3.dds
+	map_Kd ..\maps\56ed7bd3.dds
+
+newmtl _diningroomMaterial_086_89c302e1_89c302e1_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\89c302e1.dds
+	map_Kd ..\maps\89c302e1.dds
+
+newmtl _diningroomMaterial_050_84aa5ccf_84aa5ccf_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\84aa5ccf.dds
+	map_Kd ..\maps\84aa5ccf.dds
+
+newmtl _diningroomMaterial_027_4497e482_4497e482_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\4497e482.dds
+	map_Kd ..\maps\4497e482.dds
+
+newmtl _diningroomMaterial_041_0df63d4a_0df63d4a_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\0df63d4a.dds
+	map_Kd ..\maps\0df63d4a.dds
+
+newmtl _diningroomMaterial_038_fb0e4f4b_fb0e4f4b_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\fb0e4f4b.dds
+	map_Kd ..\maps\fb0e4f4b.dds
+
+newmtl _diningroomMaterial_070_9522d663_9522d663_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\9522d663.dds
+	map_Kd ..\maps\9522d663.dds
+
+newmtl _diningroomMaterial_049_949b2450_949b2450_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\949b2450.dds
+	map_Kd ..\maps\949b2450.dds
+
+newmtl _diningroomMaterial_010_347990e3_347990e3_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\347990e3.dds
+	map_Kd ..\maps\347990e3.dds
+
+newmtl _diningroomMaterial_036_eb872c86_eb872c86_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\eb872c86.dds
+	map_Kd ..\maps\eb872c86.dds
+
+newmtl _diningroomMaterial_030_a8320aff_a8320aff_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\a8320aff.dds
+	map_Kd ..\maps\a8320aff.dds
+
+newmtl _diningroomMaterial_009_e67857f2_e67857f2_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\e67857f2.dds
+	map_Kd ..\maps\e67857f2.dds
+
+newmtl _diningroomMaterial_073_d90c336b_d90c336b_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\d90c336b.dds
+	map_Kd ..\maps\d90c336b.dds
+
+newmtl _diningroomMaterial_100_05c576a2_05c576a2_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\05c576a2.dds
+	map_Kd ..\maps\05c576a2.dds
+
+newmtl _diningroomMaterial_020_5a779278_5a779278_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\5a779278.dds
+	map_Kd ..\maps\5a779278.dds
+
+newmtl _diningroomMaterial_096_d147d9c6_d147d9c6_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\d147d9c6.dds
+	map_Kd ..\maps\d147d9c6.dds
+
+newmtl _diningroomMaterial_063_d03ee876_d03ee876_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\d03ee876.dds
+	map_Kd ..\maps\d03ee876.dds
+
+newmtl _diningroomMaterial_052_e02450d9_e02450d9_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\e02450d9.dds
+	map_Kd ..\maps\e02450d9.dds
+
+newmtl _diningroomMaterial_012_e20fa5bd_e20fa5bd_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\e20fa5bd.dds
+	map_Kd ..\maps\e20fa5bd.dds
+
+newmtl _diningroomMaterial_023_97eb1e77_97eb1e77_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\97eb1e77.dds
+	map_Kd ..\maps\97eb1e77.dds
+
+newmtl _diningroomMaterial_028_1531bfe3_1531bfe3_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\1531bfe3.dds
+	map_Kd ..\maps\1531bfe3.dds
+
+newmtl _diningroomMaterial_095_7909acef_7909acef_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\7909acef.dds
+	map_Kd ..\maps\7909acef.dds
+
+newmtl _diningroomMaterial_110_cd915454_cd915454_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\cd915454.dds
+	map_Kd ..\maps\cd915454.dds
+
+newmtl _diningroomMaterial_062_6dd81750_6dd81750_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\6dd81750.dds
+	map_Kd ..\maps\6dd81750.dds
+
+newmtl _diningroomMaterial_056_f089a50d_f089a50d_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\f089a50d.dds
+	map_Kd ..\maps\f089a50d.dds
+
+newmtl _diningroomMaterial_094_00d589a7_00d589a7_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\00d589a7.dds
+	map_Kd ..\maps\00d589a7.dds
+
+newmtl _diningroomMaterial_068_71d03bce_71d03bce_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\71d03bce.dds
+	map_Kd ..\maps\71d03bce.dds
+
+newmtl _diningroomMaterial_007_b061d510_b061d510_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\b061d510.dds
+	map_Kd ..\maps\b061d510.dds
+
+newmtl _diningroomMaterial_060_751e8dd0_751e8dd0_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\751e8dd0.dds
+	map_Kd ..\maps\751e8dd0.dds
+
+newmtl _diningroomMaterial_108_822be2eb_822be2eb_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\822be2eb.dds
+	map_Kd ..\maps\822be2eb.dds
+
+newmtl _diningroomMaterial_005_508cf28b_508cf28b_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\508cf28b.dds
+	map_Kd ..\maps\508cf28b.dds
+
+newmtl _diningroomMaterial_057_1d849d31_1d849d31_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\1d849d31.dds
+	map_Kd ..\maps\1d849d31.dds
+
+newmtl _diningroomMaterial_107_aa0b195a_aa0b195a_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\aa0b195a.dds
+	map_Kd ..\maps\aa0b195a.dds
+
+newmtl _diningroomMaterial_002_62326f17_62326f17_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\62326f17.dds
+	map_Kd ..\maps\62326f17.dds
+
+newmtl _diningroomMaterial_043_ef83dc67_ef83dc67_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\ef83dc67.dds
+	map_Kd ..\maps\ef83dc67.dds
+
+newmtl _diningroomMaterial_102_9a431d85_9a431d85_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\9a431d85.dds
+	map_Kd ..\maps\9a431d85.dds
+
+newmtl _diningroomMaterial_021_92dd6ca3_92dd6ca3_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\92dd6ca3.dds
+	map_Kd ..\maps\92dd6ca3.dds
+
+newmtl _diningroomMaterial_080_63388981_63388981_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\63388981.dds
+	map_Kd ..\maps\63388981.dds
+
+newmtl _diningroomMaterial_085_3a9b5f03_3a9b5f03_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\3a9b5f03.dds
+	map_Kd ..\maps\3a9b5f03.dds
+
+newmtl _diningroomMaterial_105_cc5861ee_cc5861ee_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\cc5861ee.dds
+	map_Kd ..\maps\cc5861ee.dds
+
+newmtl _diningroomMaterial_008_d7e35a7b_d7e35a7b_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\d7e35a7b.dds
+	map_Kd ..\maps\d7e35a7b.dds
+
+newmtl _diningroomMaterial_066_5066a2dd_5066a2dd_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\5066a2dd.dds
+	map_Kd ..\maps\5066a2dd.dds
+
+newmtl _diningroomMaterial_064_df3ea012_df3ea012_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\df3ea012.dds
+	map_Kd ..\maps\df3ea012.dds
+
+newmtl _diningroomMaterial_088_8021e56a_8021e56a_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\8021e56a.dds
+	map_Kd ..\maps\8021e56a.dds
+
+newmtl _diningroomMaterial_022_75bb817e_75bb817e_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\75bb817e.dds
+	map_Kd ..\maps\75bb817e.dds
+
+newmtl _diningroomMaterial_019_00bcd58a_00bcd58a_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\00bcd58a.dds
+	map_Kd ..\maps\00bcd58a.dds
+
+newmtl _diningroomMaterial_114_fbef75ee_fbef75ee_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\fbef75ee.dds
+	map_Kd ..\maps\fbef75ee.dds
+
+newmtl _diningroomMaterial_078_6540b584_6540b584_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\6540b584.dds
+	map_Kd ..\maps\6540b584.dds
+
+newmtl _diningroomMaterial_067_c7a9f80f_c7a9f80f_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\c7a9f80f.dds
+	map_Kd ..\maps\c7a9f80f.dds
+
+newmtl _diningroomMaterial_106_f8ae1885_f8ae1885_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\f8ae1885.dds
+	map_Kd ..\maps\f8ae1885.dds
+
+newmtl _diningroomMaterial_077_9e8deb22_9e8deb22_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\9e8deb22.dds
+	map_Kd ..\maps\9e8deb22.dds
+
+newmtl _diningroomMaterial_072_87252040_87252040_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\87252040.dds
+	map_Kd ..\maps\87252040.dds
+
+newmtl _diningroomMaterial_115_c303b39e_c303b39e_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2435 0.2435 0.2435
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\c303b39e.dds
+	map_Kd ..\maps\c303b39e.dds
+
+newmtl _diningroomMaterial_074_732c0e22_732c0e22_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\732c0e22.dds
+	map_Kd ..\maps\732c0e22.dds
+
+newmtl _diningroomMaterial_047_a3cccc29_a3cccc29_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\a3cccc29.dds
+	map_Kd ..\maps\a3cccc29.dds
+
+newmtl _diningroomMaterial_026_e9b2adfc_e9b2adfc_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\e9b2adfc.dds
+	map_Kd ..\maps\e9b2adfc.dds
+
+newmtl _diningroomMaterial_058_5b31e97f_5b31e97f_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\5b31e97f.dds
+	map_Kd ..\maps\5b31e97f.dds
+
+newmtl _diningroomMaterial_032_c4ef8245_c4ef8245_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\c4ef8245.dds
+	map_Kd ..\maps\c4ef8245.dds
+
+newmtl _diningroomMaterial_082_1f54a250_1f54a250_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\1f54a250.dds
+	map_Kd ..\maps\1f54a250.dds
+
+newmtl _diningroomMaterial_039_89c20eb3_89c20eb3_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\89c20eb3.dds
+	map_Kd ..\maps\89c20eb3.dds
+
+newmtl _diningroomMaterial_033_b53f762c_b53f762c_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\b53f762c.dds
+	map_Kd ..\maps\b53f762c.dds
+
+newmtl _diningroomMaterial_084_0561243f_0561243f_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\0561243f.dds
+	map_Kd ..\maps\0561243f.dds
+
+newmtl _diningroomMaterial_089_7a1f4918_7a1f4918_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\7a1f4918.dds
+	map_Kd ..\maps\7a1f4918.dds
+
+newmtl _diningroomMaterial_076_8525c6a8_8525c6a8_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\8525c6a8.dds
+	map_Kd ..\maps\8525c6a8.dds
+
+newmtl _diningroomMaterial_104_484f92fb_484f92fb_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\484f92fb.dds
+	map_Kd ..\maps\484f92fb.dds
+
+newmtl _diningroomMaterial_044_re1cjhi__re1cjhi_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\re1cjhi.dds
+	map_Kd ..\maps\re1cjhi.dds
+
+newmtl _diningroomMaterial_031_4c727e68_4c727e68_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\4c727e68.dds
+	map_Kd ..\maps\4c727e68.dds
+
+newmtl _diningroomMaterial_097_7beabc55_7beabc55_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\7beabc55.dds
+	map_Kd ..\maps\7beabc55.dds
+
+newmtl _diningroomMaterial_011_f52a2559_f52a2559_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\f52a2559.dds
+	map_Kd ..\maps\f52a2559.dds
+
+newmtl _diningroomMaterial_029_3e24bab8_3e24bab8_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\3e24bab8.dds
+	map_Kd ..\maps\3e24bab8.dds
+
+newmtl _diningroomMaterial_103_f3a499d5_f3a499d5_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\f3a499d5.dds
+	map_Kd ..\maps\f3a499d5.dds
+
+newmtl _diningroomMaterial_045_90226f56_90226f56_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\90226f56.dds
+	map_Kd ..\maps\90226f56.dds
+
+newmtl _diningroomMaterial_017_2146b18e_2146b18e_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\2146b18e.dds
+	map_Kd ..\maps\2146b18e.dds
+
+newmtl _diningroomMaterial_037_942e2073_942e2073_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\942e2073.dds
+	map_Kd ..\maps\942e2073.dds
+
+newmtl _diningroomMaterial_092_978cd0c5_978cd0c5_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\978cd0c5.dds
+	map_Kd ..\maps\978cd0c5.dds
+
+newmtl _diningroomMaterial_081_b574d4bb_b574d4bb_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\b574d4bb.dds
+	map_Kd ..\maps\b574d4bb.dds
+
+newmtl _diningroomMaterial_055_547dd670_547dd670_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\547dd670.dds
+	map_Kd ..\maps\547dd670.dds
+
+newmtl _diningroomMaterial_035_5fa11751_5fa11751_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\5fa11751.dds
+	map_Kd ..\maps\5fa11751.dds
+
+newmtl _diningroomMaterial_113_0959a9f1_0959a9f1_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\0959a9f1.dds
+	map_Kd ..\maps\0959a9f1.dds
+
+newmtl _diningroomMaterial_024_19e16e03_19e16e03_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\19e16e03.dds
+	map_Kd ..\maps\19e16e03.dds
+
+newmtl _diningroomMaterial_069_47cef7f2_47cef7f2_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\47cef7f2.dds
+	map_Kd ..\maps\47cef7f2.dds
+
+newmtl _diningroomMaterial_112_76a4c492_76a4c492_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\76a4c492.dds
+	map_Kd ..\maps\76a4c492.dds
+
+newmtl _diningroomMaterial_014_a4af9aa6_a4af9aa6_dds
+	Ns 92.1569
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3840 0.3840 0.3840
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ..\maps\a4af9aa6.dds
+	map_Kd ..\maps\a4af9aa6.dds
