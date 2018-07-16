@@ -1,0 +1,4 @@
+1.glDrawElements(GL_TRIANGLES, triangleNumber, GL_UNSIGNED_INT, 0);
+第二个参数是index.size（）
+
+2.使用FBO，注意纹理尺寸，viewport，colorBuffer大小
