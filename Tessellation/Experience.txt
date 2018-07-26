@@ -1,0 +1,16 @@
+1.renderTriangle中应写成
+
+glPatchParameteri(GL_PATCH_VERTICES, 3);
+glDrawArrays(GL_PATCHES, 0, 3);
+
+否则无法成功传入顶点
+
+2.关闭背面剪裁，否则可能看不到
+
+3.线框模式设置为	glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+
+4.tcs缺省时可在外部
+	glPatchParameterfv(GL_PATCH_DEFAULT_OUTER_LEVEL, outerLevel);
+	glPatchParameterfv(GL_PATCH_DEFAULT_INNER_LEVEL, innerLevel);
+
+5.shader中flat关键字：不对片段输入插值

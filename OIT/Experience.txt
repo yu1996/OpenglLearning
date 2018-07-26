@@ -1,0 +1,16 @@
+1.OIT中用到了PBO,ACBO,TBO
+其中PBO用于构建FragmentLinkList
+TBO用于存储FragmentLinkList
+ACBO用于计数，作为FragmentIndex
+
+2.以上BufferObject的用法要复习
+
+3.输入image用glBindImageTexture（）
+类似glActiveTexture（），一次循环，不改变绑定点，可不重复绑定
+
+4.这个OIT用有三个PASS:
+(1)绘制不透明物体，输出颜色缓冲和深度缓冲
+(2)绘制透明物体，将上一PASS的颜色缓冲和深度缓冲作为输入，构建FragmentLinkList
+(3)对FragmentLinkList排序，输出到屏幕
+
+5.FBO使用：R2T时，glDrawBuffer（GL_NONE）是错的

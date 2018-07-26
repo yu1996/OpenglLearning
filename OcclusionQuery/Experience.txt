@@ -1,0 +1,10 @@
+1.FBO若要开启深度，需要绑定RBO，用于存储depthBuffer等
+
+2.记住glMapBuffer和glUnmapBuffer的用法，用之前需要绑定对应的Buffer
+
+3.glsl中float->int 直接int()
+
+4.主要思路：
+pass1：将可见的modelIndex绘制到FBO
+pass2：读FBO，记录可见的modelIndex到TBO
+pass3：绘制可见物体
