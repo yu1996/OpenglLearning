@@ -1,0 +1,3 @@
+UBO使用时要注意字节对齐
+glsl函数中要修改的参数要加out
+glsl不支持递归，所以无法在opengl中实现ray tracing
