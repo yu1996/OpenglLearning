@@ -1,0 +1,3 @@
+这个噪声可能是FractalNoise或者相干噪声，improvedNoise有待实现；
+绘制噪声时要注意TexCoord是否正确；
+要弄懂每个噪声效果的应用场景；

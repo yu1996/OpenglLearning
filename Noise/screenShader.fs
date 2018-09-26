@@ -2,6 +2,7 @@
 
 uniform sampler3D Noise;
 
+//uniform vec3 NoiseScale = vec3(1.0);
 uniform vec3 NoiseScale = vec3(4.0, 0.8, 0.8);//越大效果越明显
 
 uniform vec3 Color1 = vec3(0.8, 0.7, 0.0);
@@ -75,9 +76,12 @@ vec3 wood(vec4 vNoiseData){
 
 void main(){
 	vec4 NoiseData = texture(Noise, _TexCoord3D * NoiseScale);
+	//vec4 NoiseData = noise4(_TexCoord3D.x * 456 + _TexCoord3D.y * 123);
+	//NoiseData = (NoiseData + 1.0) / 2.0;
 	//_outFragColor = vec4(turbulence(NoiseData, Color1, Color2), 1.0);
-	//_outFragColor = vec4(simpleNoise(NoiseData, SkyColor, CloudColor), 1.0);
+	_outFragColor = vec4(simpleNoise(NoiseData, SkyColor, CloudColor), 1.0);
 	//_outFragColor = vec4(sinNoise(NoiseData, VeinColor, MarbleColor), 1.0);
 	//_outFragColor = vec4(highFrequencyNoise(NoiseData), 1.0);
-	_outFragColor = vec4(wood(NoiseData), 1.0);
+	//_outFragColor = vec4(wood(NoiseData), 1.0);
+	//_outFragColor = vec4(vec3(NoiseData.r + NoiseData.g + NoiseData.b), 1.0);
 }
