@@ -1,0 +1,2 @@
+FBO必须绑定RenderBuffer
+要进行写操作的ColorAttach必须通过 glDrawBuffers 声明
